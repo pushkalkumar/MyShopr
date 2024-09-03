@@ -1,1 +1,1 @@
-const String geminiApiKey = "AIzaSyCs2ZocUaSv6hfPVDIExPlTBUojsC4nglM";
+const String geminiApiKey = xxxx;
